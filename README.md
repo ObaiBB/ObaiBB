@@ -34,10 +34,12 @@ I'm full-stack developer, fresh from university and out to the wild west. All my
 
 #
 
-### Check Out my Repos!
+<a href="https://github.com/ObaiBB?tab=repositories">
 <div align="center">
    <img alt="fire" name="fire" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" />
+   <h1>Check Out my Repos!</h1>
 </div>
+</a>
 
 #
 
