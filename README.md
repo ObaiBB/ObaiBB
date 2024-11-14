@@ -10,7 +10,7 @@ I'm full-stack developer, fresh from university and out to the wild west. All my
       </a>
       <a href="https://github.com/ObaiBB?tab=repositories">
          <img alt="myrepos" title="MyRepos" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-red?style=for-the-badge&logoColor=white&logo=repo"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
+      <a href="https://github.com/ObaiBB?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ObaiBB?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 
       
