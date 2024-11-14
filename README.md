@@ -5,7 +5,7 @@
 I'm full-stack developer, fresh from university and out to the wild west. All my projects are handcrafted from scratch, taking them from wild ideas to real-life problem solvers. I thrive on building impactful solutions, one line of code at a time.
 
    <p align="left">
-      <a >
+      <a href="https://www.linkedin.com/in/obabili">
         <img alt="linkedin" title="linkedin" src="https://custom-icon-badges.demolab.com/badge/-Let's_Connect!-blue?style=for-the-badge&logoColor=white&logo=LinkedInLink" />    
       </a>
       <a href="https://github.com/ObaiBB?tab=repositories">
