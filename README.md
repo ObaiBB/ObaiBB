@@ -5,9 +5,10 @@
 I'm full-stack developer, fresh from university and out to the wild west. All my projects are handcrafted from scratch, taking them from wild ideas to real-life problem solvers. I thrive on building impactful solutions, one line of code at a time.
 
    <p align="left">
-      <a href="https://linkedin.com/in/obabili">
-         <img alt="LinkedIn Followers" title="LinkedIn" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/ForrestKnight?tab=followers">
+      <a>
+     <img alt="linkedin" title="linkedin" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=LinkedInLink" />    
+      </a>
+      <a href="https://github.com/ObaiBB?tab=repositories">
          <img alt="myrepos" title="MyRepos" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-red?style=for-the-badge&logoColor=white&logo=repo"/></a>
       <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
