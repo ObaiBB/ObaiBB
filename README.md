@@ -6,7 +6,7 @@ I'm full-stack developer, fresh from university and out to the wild west. All my
 
    <p align="left">
       <a href="https://www.linkedin.com/in/obabili/">
-     <img alt="linkedin" title="linkedin" src="https://custom-icon-badges.demolab.com/badge/-Let's_Connect!-blue?style=for-the-badge&logoColor=white&logo=LinkedInLink" />    
+        <img alt="linkedin" title="linkedin" src="https://custom-icon-badges.demolab.com/badge/-Let's_Connect!-blue?style=for-the-badge&logoColor=white&logo=LinkedInLink" />    
       </a>
       <a href="https://github.com/ObaiBB?tab=repositories">
          <img alt="myrepos" title="MyRepos" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-red?style=for-the-badge&logoColor=white&logo=repo"/></a>
