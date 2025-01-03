@@ -2,7 +2,7 @@
 
 **`Digital Craftsman | Peanut Butter Enthusiast`**
 
-I'm full-stack developer, fresh from university and out to the wild west. All my projects are handcrafted from scratch, taking them from wild ideas to real-life problem solvers. I thrive on building impactful solutions, one line of code at a time.
+I'm a full-stack developer, fresh from university and out in the wild. All my projects are handcrafted from scratch, taking them from basic concepts to real-life problem solvers. I thrive on building impactful solutions, one line of code at a time.
 
    <p align="left">
       <a href="https://www.linkedin.com/in/obabili">
